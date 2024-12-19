@@ -16,7 +16,6 @@ nav{
 .navItems{
     padding: 10px;
 }
-.h1{
+.websiteTitle.h1{
     text-align: center;
-    text-decoration: dotted;
 }
